@@ -1,0 +1,15 @@
+body{
+margin: 0;
+padding: 0;
+}
+header{
+background-color: black;
+height: 200px;
+margin-top:-20px;
+border-color: blue;
+}
+h1{
+color: white;
+padding: 20px;
+text-align: center;
+}
